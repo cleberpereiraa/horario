@@ -1,0 +1,21 @@
+body{
+   background-image: url('img/banner.Manha.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+section{
+    margin: auto;
+    background-color: white;
+    width: 400px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    text-align: center;
+    font-weight: bolder;
+}
